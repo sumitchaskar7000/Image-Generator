@@ -1,2 +1,2 @@
 # Image-Generator
-This image generator web application is built using HTML, CSS, and JavaScript, integrating the Unsplash API to allow users to search for and display images
+This image generator web application is built using HTML, CSS, and JavaScript, integrating the Unsplash API to allow users to search for and display images. The HTML provides the structure of the web page, while CSS is used to style the interface, ensuring a clean and responsive design. JavaScript handles the logic for making API requests to the Unsplash API, enabling users to input search terms and fetch relevant images in real time. Together, these technologies deliver a smooth and interactive image search experience for users.
